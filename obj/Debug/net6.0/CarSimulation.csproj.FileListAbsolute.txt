@@ -1,0 +1,12 @@
+/Users/bosko/Desktop/CAR SIMULATION/CarSimulation/CarSimulation/obj/Debug/net6.0/CarSimulation.csproj.AssemblyReference.cache
+/Users/bosko/Desktop/CAR SIMULATION/CarSimulation/CarSimulation/obj/Debug/net6.0/CarSimulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bosko/Desktop/CAR SIMULATION/CarSimulation/CarSimulation/obj/Debug/net6.0/CarSimulation.AssemblyInfoInputs.cache
+/Users/bosko/Desktop/CAR SIMULATION/CarSimulation/CarSimulation/obj/Debug/net6.0/CarSimulation.AssemblyInfo.cs
+/Users/bosko/Desktop/CAR SIMULATION/CarSimulation/CarSimulation/obj/Debug/net6.0/CarSimulation.csproj.CoreCompileInputs.cache
+/Users/bosko/Desktop/CAR SIMULATION/CarSimulation/CarSimulation/bin/Debug/net6.0/CarSimulation.deps.json
+/Users/bosko/Desktop/CAR SIMULATION/CarSimulation/CarSimulation/bin/Debug/net6.0/CarSimulation.dll
+/Users/bosko/Desktop/CAR SIMULATION/CarSimulation/CarSimulation/bin/Debug/net6.0/CarSimulation.pdb
+/Users/bosko/Desktop/CAR SIMULATION/CarSimulation/CarSimulation/obj/Debug/net6.0/CarSimulation.dll
+/Users/bosko/Desktop/CAR SIMULATION/CarSimulation/CarSimulation/obj/Debug/net6.0/refint/CarSimulation.dll
+/Users/bosko/Desktop/CAR SIMULATION/CarSimulation/CarSimulation/obj/Debug/net6.0/CarSimulation.pdb
+/Users/bosko/Desktop/CAR SIMULATION/CarSimulation/CarSimulation/obj/Debug/net6.0/ref/CarSimulation.dll
